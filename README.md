@@ -1,5 +1,5 @@
 # kanban-pl300-cert-prep
-Kanban Board for PL300 Certification Prep
+Kawaii Kanban Board for PL300 Certification Prep
 
 I created a tool for tracking Power BI studies while preparing for the Microsoft PL300 certification. I used Grok to help me in this process. 
 
