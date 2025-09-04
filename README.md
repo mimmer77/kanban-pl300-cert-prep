@@ -1,4 +1,6 @@
 Kanban Board for PL-300 Certification Prep
+
+
 Welcome to my Kawaii Kanban Board, a tool to organize and track study tasks for the Microsoft Power BI Data Analyst (PL-300) certification! 🌟 This single HTML file solves the issue of Canva’s Kanban boards not saving progress by using localStorage for persistence.
 Features
 
